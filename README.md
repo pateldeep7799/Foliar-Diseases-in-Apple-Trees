@@ -6,7 +6,7 @@ This Project will help you to detect disease in Apple trees plant🌳 based to t
 # About the project
 This Project takes a apple pant leaf image and predicts that is the plant leaf is healthy or not using Machine learning and Computer Vision.
 
-#Libraries Used for training a model
+# Libraries Used for training a model
 1. Numpy
 2. Pandas
 3. Tensorflow
